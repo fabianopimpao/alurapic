@@ -7,7 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   
-  title = 'alurapic';
-  description = 'Fender Telecaster';
-  url = 'https://www.teclacenter.com.br/images/thumbnails/1467/1200/detailed/25/fender_10172047.jpg';
+  
+    
 }
